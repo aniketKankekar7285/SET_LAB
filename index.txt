@@ -2,3 +2,7 @@ Name:Aniket Sunil Kankekar
 PRN=2019BTECS00101
 Address=Kolhapur,Maharashtra.
 Pin=416412
+**Education:
+College:Walchand College Of Engineering,Sangli.
+Branch=CSE
+Class=TY
